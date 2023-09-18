@@ -13,6 +13,7 @@ Esta branch possui os testes criados manualmente, ou seja, sem JUNIT.
 Para rodar, basta rodas os métodos main em cada classe teste, por exemplo: `SomaTeste`
 
 Abaixo, segue a imagem de exemplo de alguns testes da classe `SomaTeste`.
+![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/bd2f9009-34d6-4627-8959-348333f7ebe7)
 
 ## Como rodar
 O projeto utiliza o Maven como gerenciador de dependências, portanto para rodar fora de uma IDE, 
