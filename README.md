@@ -13,6 +13,7 @@ Esta branch possui os testes criados com a biblioteca JUnit 4.
 Para rodar, basta rodas os métodos das classes de teste, por exemplo: `SomaJunitTest`
 
 Abaixo, segue a imagem de exemplo de alguns testes da classe `SomaJunitTest`.
+![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/723dd804-7abe-456c-8762-28e683f254b3)
 
 ## Como rodar
 O projeto utiliza o Maven como gerenciador de dependências, portanto para rodar fora de uma IDE, 
