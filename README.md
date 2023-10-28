@@ -22,6 +22,8 @@ Abaixo, seguem algumas imagens de exemplo da página web gerada pelo JavaDoc da 
 ![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/dd1a658d-828c-48f4-9132-a1625f8dc711)
 ![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/9f38c431-fd38-47ee-8f6f-13ca131ebbac)
 ![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/034aa227-72d3-40c4-bb12-e08873ba9661)
+![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/d5366a2a-2901-42d0-8fbd-6eace7607337)
+
 
 
 ## Como rodar
