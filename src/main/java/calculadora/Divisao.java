@@ -1,6 +1,8 @@
 package calculadora;
 
 /**
+ * Classe responsável por realizar divisões entre dois valores.
+ *
  * @author Nicolas Frederico
  * @since 1.0
  * @version 1.0
@@ -8,6 +10,7 @@ package calculadora;
 public class Divisao {
     /**
      * Método que divide A por B.
+     *
      * @param a Primeiro inteiro.
      * @param b Segundo inteiro.
      * @return Um inteiro resultado da divisão entre A e B.

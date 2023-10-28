@@ -1,6 +1,8 @@
 package calculadora;
 
 /**
+ * Classe responsável por realizar subtrações entre dois valores.
+ *
  * @author Nicolas Frederico
  * @since 1.0
  * @version 1.0
