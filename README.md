@@ -35,4 +35,4 @@ mvn test
 ```
 Utilizando uma IDE como o IntellijIDEA, basta utilizar o runner do programa que tudo é feito automaticamente.
 <hr>
-Última atualização 17/09/21
+Última atualização 28/10/21
