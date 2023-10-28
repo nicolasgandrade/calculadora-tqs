@@ -17,7 +17,7 @@ Abaixo, segue a imagem de exemplo de alguns testes da classe `SomaJunitTest`.
 
 ## Documentação
 A Documentação foi escrita utilizando JavaDoc, sendo assim, há uma página HTML que pode ser verificada
-dentro da pasta `/doc/calculadora/package-summary.html`. <br />
+dentro da pasta `/doc/calculadora/index.html`. <br />
 Abaixo, seguem algumas imagens de exemplo da página web gerada pelo JavaDoc da classe `Soma`.
 ![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/dd1a658d-828c-48f4-9132-a1625f8dc711)
 ![image](https://github.com/nicolasgandrade/calculadora-tqs/assets/82426254/9f38c431-fd38-47ee-8f6f-13ca131ebbac)
